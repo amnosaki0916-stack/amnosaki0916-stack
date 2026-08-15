@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chokatu-gohan.com/sitemap.xml

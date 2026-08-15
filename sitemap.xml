@@ -2,132 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chokatu-gohan.com/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/recipe.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/about.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://chokatu-gohan.com/profile.html</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://chokatu-gohan.com/article1.html</loc>
-    <lastmod>2026-05-02</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article2.html</loc>
-    <lastmod>2026-05-02</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article3.html</loc>
-    <lastmod>2026-05-02</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article4.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article5.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article6.html</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article7.html</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article8.html</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article9.html</loc>
-    <lastmod>2026-05-11</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article10.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article11.html</loc>
-    <lastmod>2026-05-13</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article12.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article13.html</loc>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article14.html</loc>
-    <lastmod>2026-05-16</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article15.html</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article16.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article17.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article18.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article19.html</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article20.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article21.html</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article22.html</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chokatu-gohan.com/article23.html</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
